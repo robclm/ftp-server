@@ -189,11 +189,3 @@ COMMENTS:
     I relied heavily on [2] for socket initialization in both server and
     client programs, as I was unfamiliar with BSD sockets.
 
-REFERENCES (in MLA citation format):
-
-    1. Tanenbaum, Andrew. Computer Networks. Fourth edition. New Delhi, India:
-       Prentice Hall of India, 2003.
-
-    2. Hall, Brian. "Beej's Guide to Network Programming". 8 October 2001. 22
-       May 2004 <http://www.ecst.csuchico.edu/~beej/guide/net/>.
-
