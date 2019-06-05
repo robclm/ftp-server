@@ -1,0 +1,3 @@
+/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/cmake-build-debug/CMakeFiles/simple_ftp_master.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/simple_ftp_master.dir/client.c.o CMakeFiles/simple_ftp_master.dir/server.c.o CMakeFiles/simple_ftp_master.dir/service.c.o CMakeFiles/simple_ftp_master.dir/siftp.c.o ../client.o ../server.o ../service.o ../siftp.o  -o simple_ftp_master 

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="simple_ftp_master"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="simple_ftp_master">
+				<Option output="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/cmake-build-debug/simple_ftp_master" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.4.1/../../../../include/c++/6.4.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.4.1/../../../../include/c++/6.4.1/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.4.1/../../../../include/c++/6.4.1/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.4.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 simple_ftp_master"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="simple_ftp_master/fast">
+				<Option output="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/cmake-build-debug/simple_ftp_master" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.4.1/../../../../include/c++/6.4.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.4.1/../../../../include/c++/6.4.1/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.4.1/../../../../include/c++/6.4.1/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.4.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 simple_ftp_master/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/1.txt">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/1.txtx">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/3.txt">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/Makefile">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/README">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/Testing/_DS_Store">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/Testing/_DS_Store(1)">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/Testing/example_dir/1.txt">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/Testing/example_dir/3.txt">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/Testing/example_dir/CMMSE_2017.pdf">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/Testing/example_dir/_">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/Testing/example_dir/_(1)">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/Testing/example_dir/_DS_Store">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/Testing/example_dir/_DS_Store(1)">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/Testing/example_dir/commands1.txt">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/Testing/example_dir2/1.txt">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/Testing/example_dir2/3.txt">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/Testing/example_dir2/CMMSE_2017.pdf">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/Testing/example_dir2/_DS_Store">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/Testing/example_dir2/_DS_Store(1)">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/Testing/example_dir2/commands2.txt">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/Testing/test.sh">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/_DS_Store">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/_DS_Store(1)">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/client.c">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/client.h">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/client.o">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/ftp_dir/1.txt">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/ftp_dir/3.txt">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/ftp_dir/_DS_Store">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/ftp_dir/_DS_Store(1)">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/ftp_dir/ex1/CMMSE_2017.pdf">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/ftp_dir/ex1/_DS_Store">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/ftp_dir/ex1/_DS_Store(1)">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/ftp_dir/ex2/CMMSE_2017.pdf">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/ftp_dir/ex2/_DS_Store">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/ftp_dir/ex2/_DS_Store(1)">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/ftp_dir/more/2.txt">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/ftp_dir/source.txt">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/server.c">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/server.h">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/server.o">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/service.c">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/service.h">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/service.o">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/siftp">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/siftp.c">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/siftp.h">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/siftp.o">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/siftpd">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/source.txt">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/test1">
+			<Option target="simple_ftp_master"/>
+		</Unit>
+		<Unit filename="/home/user/Documentos/Sistemes2018-9/Practica3/v2/simple-ftp-master/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

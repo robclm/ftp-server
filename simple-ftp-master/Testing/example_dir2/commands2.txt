@@ -1,0 +1,11 @@
+scp18
+ls
+get 1.txt
+put 3.txt
+cd ex2
+put CMMSE_2017.pdf 
+get CMMSE_2017.pdf
+ls
+cd ..
+ls
+exit
